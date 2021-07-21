@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/layout2-page", {data:[{}],fetch:{},mutations:[]});
