@@ -14,8 +14,8 @@
         </NuxtLink>
       </li>
       <li class="">
-        <NuxtLink to="page2">
-          page2
+        <NuxtLink to="page2?q=query">
+          page2(query)
         </NuxtLink>
       </li>
       <li class="">
